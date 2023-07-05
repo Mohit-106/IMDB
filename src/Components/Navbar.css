@@ -1,0 +1,22 @@
+/* Example CSS */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f5f5f5;
+    padding: 3rem;
+  }
+  
+  .logo img {
+    height: 60px;
+    width: auto;
+    margin:1rem;
+    
+  }
+  
+  .wishlist img{
+    cursor: pointer;
+    margin-left:2rem;
+    margin-top: 1.6rem;
+  }
+  
